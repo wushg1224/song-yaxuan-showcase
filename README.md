@@ -60,7 +60,7 @@ npm run build
 图片目录为 `assets/images/`：
 
 - `hero-landscape.png`: 首屏横屏主视觉
-- `gallery-01.png` 到 `gallery-12.png`: 照片墙图片
+- `gallery-01` 到 `gallery-12`: 照片墙图片，可使用 `.jpg`、`.jpeg`、`.png` 或 `.webp`
 
 若图片缺失，页面会保留同尺寸占位区域，方便后续直接替换。
 
